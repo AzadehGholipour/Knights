@@ -25,7 +25,7 @@ The main function of this `puzzle.py` loops over all puzzles, and uses model che
 -----------------------------------------------------------------------------
 ## How To Run
 
-Follow these steps to set up and run the degrees.py:
+Follow these steps to set up and run the knights.py:
 
 - Navigate to the project directory: cd /workspaces/KNIGHTS/knights
 - Run the program: python puzzle.py
